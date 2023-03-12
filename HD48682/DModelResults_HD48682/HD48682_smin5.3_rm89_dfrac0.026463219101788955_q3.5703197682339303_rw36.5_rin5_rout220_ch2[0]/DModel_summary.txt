@@ -1,0 +1,9 @@
+Summary of Fitting SED for HD48682 
+Grain properties: 
+Composition: diice_hypv2 
+Size distribution exponent: 3.570 
+Belt properties:
+Mean Belt Stellar distance: 89.000 au with a Gaussian width of 36.500 
+Inner Edge: 5.000 au and Outer Edge 220.000 
+Initial Disc Mass: 0.0265 M(Earth) Final Disc Mass: 0.0265 M(Earth) 
+Chi^2 value: 0.000 

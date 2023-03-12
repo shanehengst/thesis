@@ -1,0 +1,9 @@
+Summary of Fitting SED for AU-Mic 
+Grain properties: 
+Composition: silicate_d03 
+Size distribution exponent: 3.318 
+Belt properties:
+Mean Belt Stellar distance: 26.700 au with a Gaussian width of 3.000 
+Inner Edge: 5.000 au and Outer Edge 50.000 
+Initial Disc Mass: 0.1304 M(Earth) Final Disc Mass: 0.1304 M(Earth) 
+Chi^2 value: 3.852 

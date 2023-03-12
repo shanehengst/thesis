@@ -1,0 +1,10 @@
+Summary of Fitting SED for HD48682 
+Grain properties: 
+Composition: silicate_d03 
+Blowout size: 0.044 microns 
+Size distribution exponent: 3.835 
+Belt properties:
+Mean Belt Stellar distance: 89.000 au with a Gaussian width of 36.500 
+Inner Edge: 10.000 au and Outer Edge 220.000 
+Initial Disc Mass: 0.0445 M(Earth) Final Disc Mass: 0.0445 M(Earth) 
+Chi^2 value: 7.255 
