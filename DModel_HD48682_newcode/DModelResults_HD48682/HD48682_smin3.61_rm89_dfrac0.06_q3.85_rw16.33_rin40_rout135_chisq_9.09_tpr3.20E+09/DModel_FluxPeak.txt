@@ -1,0 +1,4 @@
+Peak Flux Values for HD48682 
+PACS_70 | Total Flux: 2.2854688646888888 Jy , Peak: 103.5 au 
+PACS_100 | Total Flux: 7.986658911299575 Jy , Peak: 103.5 au 
+PACS_160 | Total Flux: 15.553706558874268 Jy , Peak: 100.5 au 
