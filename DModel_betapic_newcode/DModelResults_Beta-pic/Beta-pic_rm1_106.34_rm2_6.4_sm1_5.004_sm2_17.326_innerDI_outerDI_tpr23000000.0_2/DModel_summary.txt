@@ -1,0 +1,11 @@
+Summary of Fitting SED for Beta-pic 
+Grain properties: 
+Compositions: Inner: diice_hypv2, Outer: diice_hypv2
+Size distribution exponent: 3.617 
+Inner Belt properties:
+Mean Belt Stellar distance: 6.400 au with a Gaussian width of 1.500 
+Outer Belt properties:
+Mean Belt Stellar distance: 106.340 au with a Gaussian width of 35.980 
+Inner Edge: 1.000 au and Outer Edge 20.000 
+Chi^2 value: 42.972 
+tpr value: 23000000.000 
