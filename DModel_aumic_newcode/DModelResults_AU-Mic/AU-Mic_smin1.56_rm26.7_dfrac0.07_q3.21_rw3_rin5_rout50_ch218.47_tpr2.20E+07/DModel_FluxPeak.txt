@@ -1,0 +1,4 @@
+Peak Flux Values for AU-Mic 
+PACS_70 | Total Flux: 0.007693396489517959 Jy , Peak: 28.5 au 
+PACS_100 | Total Flux: 0.07520629311125429 Jy , Peak: 27.5 au 
+PACS_160 | Total Flux: 0.5882175330566443 Jy , Peak: 27.5 au 
