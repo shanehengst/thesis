@@ -1,0 +1,4 @@
+Peak Flux Values for HD105211 
+PACS_70 | Total Flux: 15.290027399144583 Jy , Peak: 146.5 au 
+PACS_100 | Total Flux: 42.4404272631264 Jy , Peak: 145.5 au 
+PACS_160 | Total Flux: 74.45357023926537 Jy , Peak: 140.5 au 
